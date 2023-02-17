@@ -1,0 +1,14 @@
+.MessagePage {
+  display: flex;
+}
+
+.MessageDisplay, .MessageForm {
+  flex-grow: 1;
+  margin: 2rem;
+}
+
+label, input, button {
+  display: block;
+  margin-bottom: 10px;
+}
+
